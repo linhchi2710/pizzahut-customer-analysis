@@ -26,7 +26,7 @@ The dataset consists of over 500,000 Pizza Hut transactions, including:
 ## Tools and Technologies
 - **Python**: Data analysis and manipulation.
 - **Pandas**: Data cleaning and preprocessing.
-- **Matplotlib & Seaborn**: Data visualization.
+- **Matplotlib**: Data visualization.
 
 ## Visualizations
 - **Sales Trends**: Monthly sales trends over the analyzed period.
