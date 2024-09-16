@@ -11,12 +11,15 @@ To assess the impact of promotional campaigns on customer behavior.
 ## Data
 The dataset consists of over 500,000 Pizza Hut transactions, including:
 - **Bill_ID**: Unique identifier for each transaction.
+  
 - **Channel**: Sales channel (Delivery, Dine-In, Takeaway).
+  
 - **Transaction_Date**: Date and time of each transaction.
+
 - **Sales_Amount**: Amount spent in each transaction.
 - **Customer_ID**: Unique identifier for each customer.
 - **Customer_Gender**: Gender of the customer (Male, Female, Unknown).
--**Voucher_Used**: Whether a voucher was used in the transaction (Yes, No).
+- **Voucher_Used**: Whether a voucher was used in the transaction (Yes, No).
 
 ## Key Findings
 Identified peak sales periods and customer behavior patterns.
