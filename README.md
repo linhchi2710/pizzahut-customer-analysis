@@ -16,7 +16,7 @@ The dataset consists of over 500,000 Pizza Hut transactions, including:
 - **Sales_Amount**: Amount spent in each transaction.
 - **Customer_ID**: Unique identifier for each customer.
 - **Customer_Gender**: Gender of the customer (Male, Female, Unknown).
-- **Voucher_Used**: Whether a voucher was used in the transaction (Yes, No).
+- **Voucher_Used**: Whether a voucher was used in the transaction.
 
 ## Key Findings
 - Identified peak sales periods and customer behavior patterns.
